@@ -22,7 +22,7 @@ Designed a scalable and highly available cloud infrastructure using AWS services
 (Add your diagram image)
 
 ##  Implementation Screenshots
-(Add your screenshots)
+https://github.com/preethi827/AWS-Cloud-Architecture/blob/main/aws%20main%20project%20(1).pdf
 
 ##  Outcome
 Built a scalable and secure cloud system.
